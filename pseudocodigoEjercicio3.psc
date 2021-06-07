@@ -6,5 +6,5 @@ Algoritmo pseudocodigoEjercicio3
 	Para i=1 hasta n Con Paso  1 Hacer
 		numer=numer*i;
 	FinPara;
-	Escribir "El factorial es", numer;
+	Escribir "El factorial es " , numer;
 FinAlgoritmo
